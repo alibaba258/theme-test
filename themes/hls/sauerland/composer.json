@@ -1,0 +1,19 @@
+{
+    "name": "hls/sauerland",
+    "description": "",
+    "type": "laravel-theme",
+    "version": "1.0.0",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "dev",
+            "email": "dev@example.org"
+        }
+    ],
+    "extra": {
+        "theme": {
+            "parent": "hls/core",
+            "active": true
+        }
+    }
+}
